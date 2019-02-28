@@ -18,11 +18,31 @@ output:
 
 ----
 
+We looked at mass collaboration projects
+
+----
+
+We looked at transparent processes
+
+----
+
+We looked at steps for open science
+
+----
+
 Any questions or anything to add?
 
 
 
 # <small>Today:<br>Digital open scientist's toolbox</small>
+
+----
+
+## <small>Who of you brought a notebook?</small>
+
+----
+
+## <small>Who of you was able to <br>install R and RStudio?</small>
 
 
 
