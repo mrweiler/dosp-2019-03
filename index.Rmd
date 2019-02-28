@@ -1,0 +1,49 @@
+---
+title: <small>An introduction to digital open <br>research in clinical psychology</small>
+author: <small>Matthias Weiler</small>
+date: <small>02.03.2019</small>
+output:
+  revealjs::revealjs_presentation:
+    theme: black
+    center: TRUE
+    self_contained: FALSE
+    incremental: TRUE
+    reveal_plugins: ["chalkboard"]
+    reveal_options:
+      chalkboard: 
+      readonly: FALSE
+---
+
+# <small> What we did last time... </small>
+
+----
+
+Any questions or anything to add?
+
+
+
+# <small>Today:<br>Digital open scientist's toolbox</small>
+
+
+
+# <small>Any more questions?</small>
+
+
+
+# <small>Next session preview</small>
+
+----
+
+
+
+
+
+# <small>Homework</small>
+
+----
+
+
+
+
+
+# Thank you for your attention
