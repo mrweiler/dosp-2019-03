@@ -32,6 +32,34 @@ incremental: true
 - Who of you was able to install RStudio?
 - Who of you was able to install git?
 - Who of you was able to get a GitHub account?
+- Any questions regarding the homework?
+
+
+Slack
+========================================================
+incremental: true
+- Please introduce yourself in the #whoami channel
+- Provide your name, age, university and favorite food
+- Upload a picture of yourself
+- Install the slack app (optional)
+- If you need help, use the #help channel
+
+
+Open Science Framework
+========================================================
+
+
+GitHub
+========================================================
+
+
+RStudio
+========================================================
+
+
+Zotero
+========================================================
+
 
 Any more questions?
 ========================================================
