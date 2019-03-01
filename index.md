@@ -28,6 +28,14 @@ Who of you was able to install R and RStudio?
 ========================================================
 
 
+Who of you was able to install git?
+========================================================
+
+
+Who of you was able to get a account for GitHub?
+========================================================
+
+
 Any more questions?
 ========================================================
 
