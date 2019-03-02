@@ -104,6 +104,7 @@ incremental: true
 - Stage your changes
 - Commit your changes
 - Push your changes
+- Open the GitHub Pages site of your repository
 - Any questions regarding RStudio?
 
 
