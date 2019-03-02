@@ -5,6 +5,7 @@ date: 02.03.2019
 autosize: true
 transition: concave
 
+
 What we did last time...
 ========================================================
 incremental: true
@@ -137,4 +138,3 @@ Thank you for your attention
 ========================================================
 title: false
 # <small>Thank you for your attention</small>
-
