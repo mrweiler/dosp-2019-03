@@ -15,8 +15,6 @@ incremental: true
 
 Any questions or anything to add?
 ========================================================
-title: false
-# <small>Any questions or anything to add?</small>
 
 
 Today
@@ -47,14 +45,43 @@ incremental: true
 
 Open Science Framework
 ========================================================
+incremental: true
+- Open the course's project
+- Find the schedule
+- Find the link to the p-hacker site
+- Find the slides to the second session
 
 
 GitHub
 ========================================================
+incremental: true
+- Sign in to GitHub
+- Create a new repository
+- Add a README file
+- Add a .gitignore file
+- Add a license (optional)
 
 
 RStudio
 ========================================================
+incremental: true
+- Create a new project
+- Choose version control
+- Choose your git repository
+- Stage your changes
+- Commit your changes
+- Push your changes
+
+
+RStudio II
+========================================================
+incremental: true
+- Create a new R Presentation and name it "index"
+- Add your name as author
+- Change the date to 18.03.2018
+- Add a slide with the title "introduction"
+- Add a slide with the title "methods"
+- upload your changes to GitHub
 
 
 Zotero
@@ -63,8 +90,6 @@ Zotero
 
 Any more questions?
 ========================================================
-title: false
-# <small>Any more questions?</small>
 
 
 Next session preview
