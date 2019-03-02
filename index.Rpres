@@ -74,7 +74,7 @@ incremental: true
 GitHub II
 ========================================================
 incremental: true
-- Open the Settings of your repository
+- Open the settings menu of your repository
 - Look for "GitHub Pages"
 - Under "Source" choose "master branch"
 - Any questions regarding GitHub?
